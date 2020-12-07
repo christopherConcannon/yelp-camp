@@ -4,7 +4,7 @@ var Comment = require("../models/comment");
 var middlewareObj = {};
 
 middlewareObj.checkCampgroundOwnership = function(req, res, next){
-    // is user logged in?
+    // is user logged in?  passport method
     if(req.isAuthenticated()){
         Campground.findById(req.params.id, function(err, foundCampground){
             if(err || !foundCampground){
