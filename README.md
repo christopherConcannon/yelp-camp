@@ -3,7 +3,7 @@
 ![MIT license badge](https://img.shields.io/badge/license-MIT-green)
 
 ## Description
-A full-stack pedagogical social media appliction created with Node.js, Express and EJS.  Users can view details from popular camp sites uploaded by other credentialled users.  When a user signs up, she is able to create, read, update and delete posts relating to favourite camp sites.  Users can also comment on posts.
+A full-stack pedagogical social media appliction created with Node.js, Express and EJS.  Users can view details from popular camp sites uploaded by other credentialled users.  When a user signs up, she is able to create, read, update and delete posts relating to favourite camp sites.  Users can also comment on posts. 
 
 ##### Landing Page View
 ![Landing Page View Screenshot](./assets/images/screenshot.jpg)
